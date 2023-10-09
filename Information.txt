@@ -1,0 +1,5 @@
+Agenda:
+ a> git repo is created.
+ b> requirements.txt
+ c> setup.py
+ d> src and creted a packages
